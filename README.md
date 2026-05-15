@@ -1,5 +1,8 @@
-# udemy-python-mega-course
+# Udemy Python Course
 
+### ⚠️ README WIP ⚠️
+
+Full Repo
 https://github.com/orgs/python-mega-course/repositories
 
 
